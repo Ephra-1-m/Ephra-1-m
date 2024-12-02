@@ -1,11 +1,11 @@
-<h1>Hi, I'm Ephraim! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Ephraim! <br/> <a href="http://www.linkedin.com/in/ephraim-berman-30a13b317">Cybersecurity Professional</a></h1>
 
 <h2> 🧑🏼‍💻 Cybersecurity Projects:</h2>
 
 - <b>Fundamentals </b>
-  - [Log Analysis (Wireshark/Tcpdump)](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Incident Reports (DOS / PORTS)](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PowerShell</b>
+  - [Log Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Incident Reports](https://github.com/joshmadakor1/Algorithms-Practice) 
+   <!-- <b>PowerShell</b>-->
 - <b>Python</b>
   - [Automation (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
@@ -18,8 +18,8 @@ Passionate about staying up-to-date with the latest threats and trends in the cy
 with a focus on practical application and hands-on experience.
 
 
-<h2> 🤳 Connect with me: @Ephraim berman</h2>
+<h2> 🤳 Connect with me on linkedin: <a href="http://www.linkedin.com/in/ephraim-berman-30a13b317">Ephraim berman</a></h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!--[<img align="left" alt="Ephraim berman| LinkedIn" width="22px" src="http://www.linkedin.com/in/ephraim-berman-30a13b317" />][linkedin] -->
 
-[linkedin]: www.linkedin.com/in/ephraim-berman-30a13b317
+ <!-- [linkedin]: www.linkedin.com/in/ephraim-berman-30a13b317 -->
