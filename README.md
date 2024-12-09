@@ -21,7 +21,3 @@ with a focus on practical application and hands-on experience.
 
 
 <h2> 🤳 Connect with me on linkedin: <a href="http://www.linkedin.com/in/ephraim-berman-30a13b317">Ephraim berman</a></h2>
-
-<!--[<img align="left" alt="Ephraim berman| LinkedIn" width="22px" src="http://www.linkedin.com/in/ephraim-berman-30a13b317" />][linkedin] -->
-
- <!-- [linkedin]: www.linkedin.com/in/ephraim-berman-30a13b317 -->
