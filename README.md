@@ -2,7 +2,7 @@
 
 <h2> 🧑🏼‍💻 Cybersecurity Projects:</h2>
 
-- <b>Fundamentals </b>
+- <b>Cybersecurity Groundwork </b>
   - [Azure Security Alerts](https://github.com/Ephra-1-m/AzureVM-Monitor/blob/a7ced3f72f46cf081f4d881f18fac3f62fe8b1de/README.md)
   - [Incident Reports](https://github.com/joshmadakor1/Algorithms-Practice) 
    <!-- <b>PowerShell</b>-->
