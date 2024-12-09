@@ -1,14 +1,16 @@
 <h1>Hi, I'm Ephraim! <br/> <a href="http://www.linkedin.com/in/ephraim-berman-30a13b317">Cybersecurity Professional</a></h1>
 
-<h2> 🧑🏼‍💻 Cybersecurity Projects:</h2>
+<h2> 🧑🏼‍💻 Projects:</h2>
 
-- <b>Cybersecurity Groundwork </b>
+- <b>Cybersecurity Projects </b>
   - [Azure RDP Security Alerts](https://github.com/Ephra-1-m/AzureVM-Monitor/blob/a7ced3f72f46cf081f4d881f18fac3f62fe8b1de/README.md)
-  - [Incident Reports](https://github.com/joshmadakor1/Algorithms-Practice) 
+  - [Incident Reports](https://) 
    <!-- <b>PowerShell</b>-->
-- <b>Python</b>
-  - [Automation (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>Communication and Analysis</b>
+  - [Report Writing](https://)
+  - [Presentation Skills](https://)
+  - [Critical Analysis](https://)
+    
 <h2> 📜 Certificate </h2>
 
 - [Google Cybersecurity certificate](https://coursera.org/verify/professional-cert/QIL4SC6G4ORN)
