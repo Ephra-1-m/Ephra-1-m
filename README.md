@@ -10,6 +10,7 @@
   - [Report Writing](https://)
   - [Presentation Skills](https://)
   - [Critical Analysis](https://)
+- <b>Leveraging AI for creation</b>
     
 <h2> 📜 Certificate </h2>
 
