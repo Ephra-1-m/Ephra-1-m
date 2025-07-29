@@ -12,7 +12,7 @@
   - [Critical Analysis](https://)
     
 - <b>Leveraging AI for creation</b>
-  - [Website Vulnerability Scanner](https://github.com/Ephra-1-m/web_vulnerability_scanner-m/blob/a7ced3f72f46cf081f4d881f18fac3f62fe8b1de/README.md)
+  - [Website Vulnerability Scanner](https://github.com/Ephra-1-m/web_vulnerability_scanner-m/)
     
 <h2> 📜 Certificate </h2>
 
