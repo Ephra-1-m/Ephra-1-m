@@ -11,10 +11,12 @@
   - [Presentation Skills](https://)
   - [Critical Analysis](https://)
 - <b>Leveraging AI for creation</b>
+ - [Website Vulnerability Scanner](https://)
     
 <h2> 📜 Certificate </h2>
 
-- [Google Cybersecurity certificate](https://coursera.org/verify/professional-cert/QIL4SC6G4ORN)
+- [Google Cybersecurity Certificate](https://coursera.org/verify/professional-cert/QIL4SC6G4ORN)
+- [COMP TIA Security+ Certificate](https://www.credly.com/badges/f54801ee-e1d9-4801-81bd-27dcf36a2037/public_url)
 <h2> 📓 BIO </h2>
 Cybersecurity analyst with a focus on network security. Proficient in Python and security tools such as IDS, IPS, and SIEM.
 Passionate about staying up-to-date with the latest threats and trends in the cybersecurity landscape. Always eager to learn and grow, 
