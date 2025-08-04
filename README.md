@@ -4,13 +4,7 @@
 
 - <b>Cybersecurity Projects </b>
   - [Azure RDP Security Alerts](https://github.com/Ephra-1-m/AzureVM-Monitor/blob/a7ced3f72f46cf081f4d881f18fac3f62fe8b1de/README.md)
-  - [Incident Reports](https://) 
    <!-- <b>PowerShell</b>-->
-- <b>Communication and Analysis</b>
-  - [Report Writing](https://)
-  - [Presentation Skills](https://)
-  - [Critical Analysis](https://)
-    
 - <b>Leveraging AI for creation</b>
   - [Website Vulnerability Scanner](https://github.com/Ephra-1-m/web_vulnerability_scanner-m/)
     
@@ -19,9 +13,7 @@
 - [Google Cybersecurity Certificate](https://coursera.org/verify/professional-cert/QIL4SC6G4ORN)
 - [COMP TIA Security+ Certificate](https://www.credly.com/badges/f54801ee-e1d9-4801-81bd-27dcf36a2037/public_url)
 <h2> 📓 BIO </h2>
-Cybersecurity analyst with a focus on network security. Proficient in Python and security tools such as IDS, IPS, and SIEM.
-Passionate about staying up-to-date with the latest threats and trends in the cybersecurity landscape. Always eager to learn and grow, 
-with a focus on practical application and hands-on experience.
+I'm a career-transitioning professional with a background in operations and a passion for cybersecurity. My work in solving problems and analyzing processes has given me a unique perspective on digital security. I'm actively building projects with Python and gaining hands-on experience with security tools like SIEM, IDS/IPS, and vulnerability assessment. I'm always eager to learn and stay current with the latest threats and trends.
 
 
 <h2> 🤳 Connect with me on linkedin: <a href="http://www.linkedin.com/in/ephraim-berman-30a13b317">Ephraim berman</a></h2>
